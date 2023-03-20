@@ -9,4 +9,4 @@ Além disso, temos um  grupo no Facebook para o 11° Grande Desafio. Esse grupo 
 Reúna sua equipe, comece a planejar, use a criatividade e todas as possibilidades que as novas mídias oferecem! 
 	Mãos à obra e sucesso! 
 
-Advertência: A equipe organizadora do Grande Desafio se reserva o direito de retirar do grupo do Facebook conteúdos inapropriados. Adicionalmente, equipes que apresentarem nas redes sociais comportamentos considerados incompatíveis com o espírito de cooperação e colaboração esperados no Grande Desafio, poderão ser desclassificadas.
+:warning: **Advertência:** A equipe organizadora do Grande Desafio se reserva o direito de retirar do grupo do Facebook conteúdos inapropriados. Adicionalmente, equipes que apresentarem nas redes sociais comportamentos considerados incompatíveis com o espírito de cooperação e colaboração esperados no Grande Desafio, poderão ser desclassificadas.
