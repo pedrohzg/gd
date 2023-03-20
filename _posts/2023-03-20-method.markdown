@@ -1,0 +1,53 @@
+---
+title: Passos para a Trilha Exploratória
+layout: pages
+categories: ["method"]
+---
+### Encontre o seu Problema
+
+Uma boa pesquisa está conectada com o mundo ao redor. Muitos desafios e problemas encontrados no cotidiano inspiraram grandes projetos de pesquisa e descobertas. Por isso a jornada da sua equipe começa buscando um problema. Sugerimos que a sua equipe busque problemas ao redor: na rua, no bairro, ou comunidade; ou mesmo em alguma comunidade próxima ou na cidade em que vocês moram. Conversem com pessoas; busquem notícias locais; visitem lugares. O mais importante de tudo: registrem tudo no Diário de Campo.
+
+
+Toró de Ideias - O toró de ideias é um ótimo recurso que serve durante todo o projeto, mas principalmente logo após o levantamento do problema. Consiste em falar, ouvir e registrar todas as ideias que o grupo tiver para solucionar o problema, livremente e sem restrições, para depois realizar a seleção da ideia que será adotada. É no toró que nascem ideias novas, diferentes e criativas, portanto, a equipe não devia deixar de fazê-lo.
+Projete a sua Solução - A ideia selecionada no toró deve ganhar a forma de uma proposta de solução. É importante que você siga um método na elaboração e escrita da solução. Para o Grande Desafio, você deve responder as seguintes seis perguntas:
+
+**O quê?**
+* O que está sendo proposto?
+* O que você precisa para a solução?
+
+Quem?
+Quem é a origem do problema?
+Quem será beneficiado com a sua proposta?
+Quem contribui na solução?
+Por quê?
+Por que é importante resolver este problema?
+Por que a sua solução é importante para ele?
+Se já existirem propostas de soluções para o problema, por que a sua solução é melhor do que as existentes?
+Onde?
+Onde a solução será aplicada?
+Onde a solução pode ser aplicada?
+Além do local onde você irá testá-la/aplicá-la.
+Como?
+Como você realizará a sua solução?
+Elabore uma sequência de etapas para a realização da solução. Chamaremos isso de método.
+Quando?
+Quando cada etapa da solução será realizada?
+Para cada etapa do seu método, estabeleça qual as datas previstas de início e término. Chamaremos isso de cronograma.
+Algumas recomendações que podem valorizar a sua proposta:
+Resultado mensurável – A sua equipe deve considerar a criação de uma solução cujos resultados possam ser medidos objetivamente. Isso a tornará aberta e transparente, permitindo que qualquer pessoa seja capaz de avaliá-la e reconhecer o seu valor.
+Reprodutível - É possível reproduzir a sua solução? Apesar de não ser obrigatória a criação de uma solução que possa ser reproduzida, essa qualidade tornará possível que outras pessoas a adotem, aprimorem e/ou adaptem para outros contextos, expandindo as suas possibilidades.
+Mão na Massa - Com o projeto em mãos, a sua equipe sai a campo para torná-lo concreto. O mais provável é que o que foi planejado não vá funcionar de primeira. Ao contrário, a maior parte das soluções bem-sucedidas são resultantes de um número grande de tentativas, testes e aperfeiçoamentos. O ciclo apresentado na Figura 5.1 resume uma estratégia recorrentemente utilizada por cientistas no desenvolvimento de suas pesquisas. A partir do projeto inicial, é implementada uma primeira solução. Essa solução é testada e avaliada. Os resultados dessa avaliação permitem uma análise das limitações e falhas da solução, bem como a revisão e refinamento do projeto, a ser novamente implementado e testado, fechando o ciclo da Figura 5.1.
+
+Figura 5.1. Ciclo Projeto-Implementação-Avaliação.
+Não apenas é importante que a sua equipe realize tantos testes e refinamentos quantos forem necessários, mas também que mantenha um registro de todo o processo, das diversas versões do protótipo, de quando e como foram feitos os experimentos. Esse registro, a ser feito no Diário de Campo, é valioso e será ponto importante na avaliação da solução.
+Divulgue os seus Resultados – Saber comunicar os resultados da sua pesquisa é tão importante quanto realizá-la. A comunicação tem o papel de fazer outros pesquisadores e a comunidade entenderem a sua pesquisa e a sua relevância. Ela pode tomar diferentes formas a depender do objetivo da comunicação, veja alguns exemplos:
+Apresentação de Slides – Dá suporte a apresentações orais da pesquisa em eventos. Apresenta um encadeamento de ideias com tópicos resumidos que guiam a fala do apresentador.
+Artigo – Apresenta uma descrição textual sobre a pesquisa. Artigos não deveriam ser longos, ou seja, usualmente têm entre duas a dez páginas.
+Pôster – Apresenta visualmente a pesquisa e seus resultados em uma folha de papel tamanho grande (pôster) que fica disposta em um suporte para ser visualizado pelo público. O pôster pode cumprir um papel semelhante ao dos slides, no sentido que encadeiam ideias e dão suporte a um apresentador do pôster, mas é recomendável que ele possua textos mais detalhados que permitam o seu entendimento mesmo sem o apresentador.
+Nos três casos sugere-se que o texto seja enriquecido com exemplos, ilustrações e diagramas. Não há uma única forma de organizar a comunicação, mas há informações que não devem faltar:
+Título – O título deve ser curto e ser capaz de comunicar a essência da sua ideia. Uma pergunta fundamental é: como o seu título permite que alguém seja capaz de entender qual a diferença da sua pesquisa em relação ao que existe?
+Objetivo – Qual o objetivo da sua pesquisa? Esse objetivo será resultante da pergunta “O quê?”, respondida no Projeto da Solução.
+Motivação – Por que esta pesquisa está sendo feita e qual a sua importância? Esse objetivo será resultante da pergunta “Por quê?”, respondida no Projeto da Solução.
+Trabalhos Relacionados – Aqui você relata se outras pessoas tentaram resolver algum problema parecido com o seu e como o fizeram.
+Método – Como foi que a pesquisa foi realizada. Pode ser interessante organizar essa seção com a sequência de etapas que você escreveu para a pergunta “Como?”, respondida no Projeto da Solução. O uso de fotografias e diagramas é muito importante na descrição. Você também pode fazer uso de registros do Diário de Campo.
+Resultados e Conclusões – Aqui são apresentados os resultados finais alcançados e o que a sua equipe pode concluir deles. Essa seção fica mais rica com diagramas, comparações com outros trabalhos e a apresentação de resultados que podem ser medidos.
