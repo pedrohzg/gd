@@ -31,9 +31,14 @@ p.larger {
   font-size: 18px;
 }
 
+.page-details {
+   margin-left: 20px;
+   margin-right: 20px;
+}
+
 .page-details > p {
-    font-size: 18px;
-    line-height: 1.75;
+   font-size: 18px;
+   line-height: 1.75;
 }
 
 a,
