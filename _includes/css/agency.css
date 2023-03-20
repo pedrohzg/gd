@@ -31,6 +31,11 @@ p.larger {
   font-size: 18px;
 }
 
+.page-details > p {
+    font-size: 18px;
+    line-height: 1.75;
+}
+
 a,
 a:hover,
 a:focus,
@@ -300,6 +305,11 @@ header {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+}
+
+.header-pages {
+    background-image: url('{{ site.baseurl }}/img/header-pages.png');
+    height: 200px;
 }
 
 header .intro-text {
